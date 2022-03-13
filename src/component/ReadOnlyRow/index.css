@@ -1,0 +1,16 @@
+.icon-button {
+  color: black;
+  height: 40px;
+  width: 30px;
+}
+.delete-button {
+  color: white;
+  background-color: rgba(209, 23, 23, 0.829);
+  border-radius: 15px;
+}
+.table-container {
+  width: 100%;
+}
+td {
+  vertical-align: text-bottom;
+}

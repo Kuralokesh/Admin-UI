@@ -1,0 +1,9 @@
+.edit-input {
+  background-color: info;
+  color: rgb(38, 119, 167);
+  border-radius: 15px;
+  text-align: center;
+}
+.button {
+  background-color: red;
+}

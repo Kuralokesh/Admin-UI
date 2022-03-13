@@ -1,0 +1,24 @@
+.icon-button {
+  color: black;
+  height: 40px;
+  width: 30px;
+}
+.delete-button {
+  color: white;
+  background-color: rgba(209, 23, 23, 0.829);
+  border-radius: 15px;
+}
+.footer {
+  margin-top: 7px;
+  margin-bottom: 0px;
+  height: 40px;
+}
+.pageNumbers {
+  height: 30px;
+  background-color: black;
+  color: black;
+}
+.table {
+  border-collapse: initial;
+  caption-side: bottom;
+}

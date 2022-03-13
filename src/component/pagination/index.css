@@ -1,0 +1,9 @@
+.current-menu-item a {
+  color: #fce77d !important;
+  background: #f96167 !important;
+}
+
+.pagebutton {
+  color: white;
+  background-color: black;
+}
